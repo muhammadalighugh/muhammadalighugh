@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @muhammadalighugh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋  
+I'm Muhammad Ali Ghugh, a passionate developer.  
 
-<!---
-muhammadalighugh/muhammadalighugh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🏆 GitHub Achievements  
+- 🏅 Arctic Code Vault Contributor  
+- 🏅 Pull Shark  
+- 🏅 Galaxy Brain  
+
+## 🚀 Badges  
+![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER&style=social)  
